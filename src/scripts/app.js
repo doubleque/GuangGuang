@@ -1,3 +1,2 @@
-import '../style/name.css'
-import { Name } from './name'
-Name.sayName()
+import '../style/app.scss';
+console.log('app.js。。。。。。')
